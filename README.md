@@ -1,6 +1,6 @@
 # Hi, I'm Ajay 👋
 
-I'm the founder of [Mono](https://workwithmono.com), we we build web and mobile apps for statups.
+I'm the founder of [Mono](https://workwithmono.com), we we build web and mobile apps for startups.
 
 ## What I do
 - 🚀 React and React Native development
